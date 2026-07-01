@@ -3660,7 +3660,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES SMD 1K OHM 1% 1/10W 0402"
+		(property "Description" "RES SMD 0 OHM 1%  0402 JUMPER"
 			(at 172.72 76.2 0)
 			(effects
 				(font
@@ -3687,7 +3687,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG_PN" "ERJ-2RKF1001X"
+		(property "MFG_PN" "ERJ-2GE0R00X"
 			(at 172.72 76.2 0)
 			(effects
 				(font
@@ -4330,7 +4330,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES SMD 1K OHM 1% 1/10W 0402"
+		(property "Description" "RES SMD 0 OHM 1%  0402 JUMPER"
 			(at 172.72 85.09 0)
 			(effects
 				(font
@@ -4357,7 +4357,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG_PN" "ERJ-2RKF1001X"
+		(property "MFG_PN" "ERJ-2GE0R00X"
 			(at 172.72 85.09 0)
 			(effects
 				(font
